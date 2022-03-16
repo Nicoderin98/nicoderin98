@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nicoderin98](https://github.com/Nicoderin98)
+- 👨‍💻 All of my projects are available at [https://troopl.com/nicoderin98](https://troopl.com/nicoderin98)
 
 - 📫 How to reach me **nicoderin98@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Nicoderin98](https://github.com/Nicoderin98)
 
 - ⚡ Fun fact **in my free time I like to cook, play sports and listen to music**
 
