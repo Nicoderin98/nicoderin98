@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nomadity](https://www.nomadity.live)
 
-- 🌱 I’m currently learning **Ruby on Rails and React**
+- 🌱 I’m currently learning **Next.js and React**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/nicoderin98](https://troopl.com/nicoderin98)
 
